@@ -1,2 +1,2 @@
 # hello-world
-GitHub repository
+This is Emiko's first GitHub repository.
